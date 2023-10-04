@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  background-color: #ffbcc7;
+  font-family: "Moon Dance", cursive;
+}
+.menu .div .a {
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=estilos.css.map */
