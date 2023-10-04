@@ -12,4 +12,25 @@
   font-size: 2rem;
 }
 
+.banner {
+  font-family: "Moon Dance", cursive;
+}
+
+.productos {
+  display: flex;
+  flex-direction: column;
+  align-content: space-evenly;
+  margin: 2px;
+  text-align: center;
+  font-family: "Moon Dance", cursive;
+  font-size: 1.5rem;
+}
+
+.contenedornosotros {
+  margin: 15px;
+  text-align: center;
+  font-family: "Moon Dance", cursive;
+  font-size: 2rem;
+}
+
 /*# sourceMappingURL=estilos.css.map */
